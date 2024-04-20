@@ -1,10 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('background.png');
-    background-size: cover;
-    background-position: 50% 45%;
+    background-color: #0050F2;
     font-family: Arial, sans-serif;
+    background-size: 100%;
 }
 
 .container {
@@ -31,4 +30,8 @@ h1 {
     color: white;
     text-decoration: none;
     border-radius: 5px;
+}
+
+footer {
+    background-size: contain;
 }
